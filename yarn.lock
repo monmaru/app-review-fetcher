@@ -2642,10 +2642,10 @@ node-unzip-2@^0.2.7:
     readable-stream "~1.0.0"
     setimmediate "~1.0.1"
 
-nodemailer@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-5.0.0.tgz#bcb409eca613114e85de42646d0ce7f1fa70b716"
-  integrity sha512-XI4PI5L7GYcJyHkPcHlvPyRrYohNYBNRNbt1tU8PXNU3E1ADJC84a13V0vbL9AM431OP+ETacaGXAF8fGn1JvA==
+nodemailer@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.1.0.tgz#81a918857f2f157b66bdaca528b83682505ba98f"
+  integrity sha512-mzKGT5Q1PY84v6oRVjy88ymMDLUbPqvIr26n9Uy3j2nXzdhKWx1z4GLSHOyX8655zMkQng1MFR3lK+cE1egS6Q==
 
 nomnomnomnom@^2.0.0:
   version "2.0.1"
